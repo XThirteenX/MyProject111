@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestTGU</string>
+    <string name="hello_testtgu">Hello TestTGU!</string>
+    <string name="button">Погладить ёжика</string>
 </resources>
