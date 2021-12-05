@@ -2,4 +2,5 @@
     <string name="app_name">TestTGU</string>
     <string name="hello_testtgu">Hello TestTGU!</string>
     <string name="button">Погладить ёжика</string>
+    <string name="button_as">Посмотреть инструкцию</string>
 </resources>
